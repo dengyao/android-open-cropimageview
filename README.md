@@ -20,5 +20,6 @@ CropImageView是基于ImageView实现的带裁剪框的ImageView控件，可用�
 
 待更新和完善
 ### 4.注意事项
-待更新
+该控件待更新和完善
+
 
