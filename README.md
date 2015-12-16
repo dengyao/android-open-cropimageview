@@ -7,7 +7,7 @@ CropImageView是基于ImageView实现的带裁剪框的ImageView控件，可用�
 
 **说明：**该控件只提供裁剪区域的选择的功能，未提供图片裁剪的功能。  
 效果如下：  
-![CropImageView](https://github.com/truistic/Android-CropImageView/blob/master/images/screenshot1.png)  
+![CropImageView](https://github.com/truistic/android-open-cropimageview/blob/master/screenshot/screenshot1.png)  
 ### 2.使用说明
 待更新
 ### 3.实现思路
